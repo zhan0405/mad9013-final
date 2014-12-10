@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.page-header{
+	margin:10px;
+	text-align:center;
+	padding:0;
+	border-bottom:none;
+	}
+
+.foot{
+   margin:10px;
+   text-align:center;
+	}
+h2{
+	text-align:center;
+	}
+h3{
+   text-align:center;
+	}
+	
+.person{
+	text-align:center;
+	
+	}
